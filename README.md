@@ -1,5 +1,5 @@
 # A simple text to audio converter using python.
-It is a simple project to convert text pdf files to audio using python3.
+It is a simple project to convert text (.txt) files to audio (.mp3) using python3.
 
 You will need following applications/ packages installed to run it in your machine:
 
