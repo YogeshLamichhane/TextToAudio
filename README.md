@@ -7,8 +7,7 @@ You will need following applications/ packages installed to run it in your machi
 
 2. pip3 or the latest version of pip However pip is directly installed while installing python, if not then manually install it and check it as pip --version
 
-3.gTTS
-use the command below to install it:
+3.gTTS :use the command below to install it:
 
 pip install gTTS
 
