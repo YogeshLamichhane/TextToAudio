@@ -1,2 +1,14 @@
-# TestToAudio
-A simple text to audio converter using python.
+# A simple text to audio converter using python.
+It is a simple project to convert text pdf files to audio using python3.
+
+You will need following applications/ packages installed to run it in your machine:
+
+1. python3 or the latest version of python you can simply download it from python.org and install it and check it as python --version
+
+2. pip3 or the latest version of pip However pip is directly installed while installing python, if not then manually install it and check it as pip --version
+
+3.gTTS
+
+use the command below to install it: pip install gTTS
+
+And you are ready to go!
